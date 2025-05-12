@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tanda tangan digital</string>
+    <string name="title_activity_menu_utama">menu_utama</string>
+    <string name="title_home">Home</string>
+    <string name="title_Document">Document</string>
+    <string name="title_Setting">Setting</string>
+
+</resources>
